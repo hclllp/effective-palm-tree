@@ -1,0 +1,6 @@
+# templae file
+/.idea
+/.ipynb_checkpoints
+
+# add file
+*.csv
